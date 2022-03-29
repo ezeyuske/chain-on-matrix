@@ -2,8 +2,8 @@
 
 ## Requisitos
 
--   Node JS v12 or higher
--   Archivo con matriz cuadrada de caracteres (cada elemento de la matriz debe ser un único carácter) separadas por una coma (,)
+-   Node JS v12 o mayor.
+-   Archivo con matriz cuadrada de caracteres (cada elemento de la matriz debe ser un único carácter) separadas por una coma (,).
 
 
 ## Ejecución
@@ -21,5 +21,6 @@ Para obtener múltiples resultados:
 ```bash
 node main.js --path=FILEPATH --multiResults
 ```
+
 
 *El proyecto incluye archivos de ejemplo.*
